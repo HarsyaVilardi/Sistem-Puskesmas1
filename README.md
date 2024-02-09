@@ -9,8 +9,8 @@ Kelompok
     Proyek: Sistem Puskesmas
     Anggota:
         Ketua: Harsya Vil'ardi
-        Anggota 1: 
-        Anggota 2: 
+        Anggota 1: Muhammad Farhan Rizki
+        Anggota 2: Wafiq Salma Aulia
 
 Judul Proyek
 Sistem Piuskesmas
