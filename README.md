@@ -21,15 +21,15 @@ Penjelasan Proyek
      - interger ( int ) untuk menuliskan umur pasien.
      - String untuk menuliskan data - data mengenai dokter dan pasien.
 2. Record
-      Untuk menuliskan atau mempresentasikan data dokter ( Nama, Poli, Ruangan Dan Jamnya ).
-3. Array
-      Untuk mempresentasikan data antrian pasien ( Nama, Umur, NIK, Penyakit dan kategori (Lansia, Umum, Balita, BPJS).
+   Untuk menuliskan atau mempresentasikan data dokter ( Nama, Poli, Ruangan Dan Jamnya ).
+3.  Array
+   Untuk mempresentasikan data antrian pasien ( Nama, Umur, NIK, Penyakit dan kategori (Lansia, Umum, Balita, BPJS).
 4. Stack
-      Untuk mengecek atau memeriksa dokter yang bisa melayani.
+   Untuk mengecek atau memeriksa dokter yang bisa melayani.
 5. Queue Priority
-     Queueantrian pasien untuk mengecek jika ada pasien yang harus di dahulukan (IGD, Operasi kecil, dain lain-lain).
+   Queueantrian pasien untuk mengecek jika ada pasien yang harus di dahulukan (IGD, Operasi kecil, dain lain-lain).
 6. Linkedlist
-     Linkedlistpasien selesai untuk menyimpan daftar pasien yang telah selesai di layani.
+    Linkedlistpasien selesai untuk menyimpan daftar pasien yang telah selesai di layani.
 
 Komponen Proyek
 1.  Tipe data
