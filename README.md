@@ -22,8 +22,6 @@ Penjelasan Proyek
      - String untuk menuliskan data - data mengenai dokter dan pasien.
 2. Record
       Untuk menuliskan atau mempresentasikan data dokter ( Nama, Poli, Ruangan Dan Jamnya ).
-
-》Muhamad Farhan Rizki
 3. Array
       Untuk mempresentasikan data antrian pasien ( Nama, Umur, NIK, Penyakit dan kategori (Lansia, Umum, Balita, BPJS).
 4. Stack
