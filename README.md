@@ -28,8 +28,6 @@ Penjelasan Proyek
       Untuk mempresentasikan data antrian pasien ( Nama, Umur, NIK, Penyakit dan kategori (Lansia, Umum, Balita, BPJS).
 4. Stack
       Untuk mengecek atau memeriksa dokter yang bisa melayani.
-
-》Harsya Vil'ardi
 5. Queue Priority
      Queueantrian pasien untuk mengecek jika ada pasien yang harus di dahulukan (IGD, Operasi kecil, dain lain-lain).
 6. Linkedlist
