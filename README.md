@@ -13,10 +13,12 @@ Kelompok
         Anggota 2: Wafiq Salma Aulia
 
 Judul Proyek
+
 Sistem Piuskesmas
 
+Penjelasan Projek 
 
-Penjelasan Proyek
+Sistem puskesmas merupakan sistem yang di buat untuk memudahkan ketika berobat baik untuk pasien dan pihak puskesmas. Pada sistem ini terdapat beberapa spesifikasi di antaranya pasien, poli, dokter dan antrian kesehatan. Sistem ini masih akan berkembang ke depannya dan bisa bermanfaat untuk semua orang.
 Komponen Proyek 
 
 Sistem Puskesmas* 
