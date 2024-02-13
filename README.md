@@ -13,12 +13,10 @@ Kelompok
         Anggota 2: Wafiq Salma Aulia
 
 Judul Proyek
-
-Sistem Piuskesmas
+    Sistem Piuskesmas
 
 Penjelasan Projek 
-
-Sistem puskesmas merupakan sistem yang di buat untuk memudahkan ketika berobat baik untuk pasien dan pihak puskesmas. Pada sistem ini terdapat beberapa spesifikasi di antaranya pasien, poli, dokter dan antrian kesehatan. Sistem ini masih akan berkembang ke depannya dan bisa bermanfaat untuk semua orang.
+    Sistem puskesmas merupakan sistem yang di buat untuk memudahkan ketika berobat baik untuk pasien dan pihak puskesmas. Pada sistem ini terdapat beberapa spesifikasi di antaranya pasien, poli, dokter dan antrian kesehatan. Sistem ini masih akan berkembang ke depannya dan bisa bermanfaat untuk semua orang.
 Komponen Proyek 
 
 Sistem Puskesmas* 
@@ -33,7 +31,8 @@ Sistem Puskesmas*
       Untuk mencari dokter berdasarkan keluhan pasien dan poli dokter agar menemukan dokter yang bisa memeriksa 
 5. Queue Priority
      Queue<Pasien>antrian pasien untuk mengecek jika ada pasien yang harus di dahulukan (IGD, Operasi kecil, dain lain-lain)
-6. Linkedlist       Linkedlist<pasien>pasien selesai untuk menyimpan daftar pasien yang telah selesai di layani.
+6. Linkedlist
+       Linkedlist<pasien>pasien selesai untuk menyimpan daftar pasien yang telah selesai di layani.
 
 Komponen Proyek
 1.  Tipe data
@@ -44,15 +43,15 @@ Komponen Proyek
 6.  LinkedList
 
 Pembagian Tim 
-Wafiq Salma Aulia 
+- Wafiq Salma Aulia 
 1. Tipe data 
 2. Record 
 
-Muhamad Farhan Rizki 
+- Muhamad Farhan Rizki 
 3. Array 
 4. Search 
 
-Harsya Vil'ardi
+- Harsya Vil'ardi
 5. Queue Priority
 6. LinkedList
 
