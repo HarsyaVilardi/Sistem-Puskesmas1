@@ -50,6 +50,7 @@ Linkedlist<pasien>pasien selesai untuk menyimpan daftar pasien yang telah selesa
 
 
 
+
 Pembagian Tim
 
 Wafiq Salma Aulia
