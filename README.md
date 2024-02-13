@@ -62,10 +62,12 @@ Wafiq Salma Aulia
 2. Record 
 
 Muhamad Farhan Rizki 
+
 3. Array 
 4. Search 
 
 Harsya Vil'ardi
+
 5. Queue Priority
 6. LinkedList
 
