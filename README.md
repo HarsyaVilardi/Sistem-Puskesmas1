@@ -19,15 +19,9 @@ Judul Proyek
 Penjelasan Projek 
 
     Sistem puskesmas merupakan sistem yang di buat untuk memudahkan ketika berobat baik untuk pasien dan pihak puskesmas. Pada sistem ini terdapat beberapa spesifikasi di antaranya pasien, poli, dokter dan antrian kesehatan. Sistem ini masih akan berkembang ke depannya dan bisa bermanfaat untuk semua orang.
+
     
 Komponen Proyek 
-
-1.  Tipe data
-2.  Record
-3.  Array
-4.  Stack
-5.  Queue Priority
-6.  LinkedList
 
 1. Tipe data
 
