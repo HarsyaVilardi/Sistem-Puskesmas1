@@ -55,7 +55,8 @@ Queue<Pasien>antrian pasien untuk mengecek jika ada pasien yang harus di dahuluk
 Linkedlist<pasien>pasien selesai untuk menyimpan daftar pasien yang telah selesai di layani.
 
 
-Pembagian Tim 
+Pembagian Tim
+
 Wafiq Salma Aulia
 1. Tipe data 
 2. Record 
