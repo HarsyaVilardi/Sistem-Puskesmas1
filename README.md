@@ -20,8 +20,8 @@ Penjelasan Projek
 
     Sistem puskesmas merupakan sistem yang di buat untuk memudahkan ketika berobat baik untuk pasien dan pihak puskesmas. Pada sistem ini terdapat beberapa spesifikasi di antaranya pasien, poli, dokter dan antrian kesehatan. Sistem ini masih akan berkembang ke depannya dan bisa bermanfaat untuk semua orang.
 
-    
-Komponen Proyek 
+
+KOMPONEN PROYEK
 
 1. Tipe data
 
@@ -49,9 +49,7 @@ Queue<Pasien>antrian pasien untuk mengecek jika ada pasien yang harus di dahuluk
 Linkedlist<pasien>pasien selesai untuk menyimpan daftar pasien yang telah selesai di layani.
 
 
-
-
-Pembagian Tim
+PEMBAGIAN TIM
 
 Wafiq Salma Aulia
 1. Tipe data 
@@ -67,7 +65,7 @@ Harsya Vil'ardi
 5. Queue Priority
 6. LinkedList
 
-Demo Proyek 
+DEMO PROYEK
 Gifhub : https://github.com/HarsyaVilardi/Sistem-Puskesmas1/commit/c0b6819e13770b4050765349112ec47201581c9b
 
 Link YouTube : https://youtu.be/zhHDa_bSn-0?si=PgytNG9OUCU7rTM9
