@@ -1,0 +1,27 @@
+Masukkan keluhan pasien (atau ketik 'selesai' untuk keluar): paru-paru
+Masukkan poli dokter: paru-paru
+Dokter yang ditemukan: dr xena, Poli: paru-paru, Ruangan: gedung B, Jam: 13-14
+Masukkan keluhan pasien (atau ketik 'selesai' untuk keluar): alergi
+Masukkan poli dokter: alergi
+Dokter yang ditemukan: dr lily, Poli: alergi, Ruangan: gedung A, Jam: 11-12
+Masukkan keluhan pasien (atau ketik 'selesai' untuk keluar): selesai
+
+Dokter yang bertugas :
+nama: dr farid, Poli: ginjal, Ruangan: gedung E, Jam: 8-10
+nama: dr rara, Poli: jantung, Ruangan: gedung C, Jam: 9-11
+nama: dr lily, Poli: alergi, Ruangan: gedung A, Jam: 11-12
+nama: dr xena, Poli: paru-paru, Ruangan: gedung B, Jam: 13-14
+nama: dr satria, Poli: spesialis mata, Ruangan: gedung D, Jam: 7-10
+
+
+Urutan Antrian Berdasarkan Kategori :
+siti telah diperiksa dan di berikan resep obat oleh dokter:
+Nama Dokter: dr farid, Poli Spesialis: ginjal, Ruangan: gedung E, Jam: 8-10
+
+neneng telah diperiksa dan di berikan resep obat oleh dokter:
+Nama Dokter: dr rara, Poli Spesialis: jantung, Ruangan: gedung C, Jam: 9-11
+
+kiara telah diperiksa dan di berikan resep obat oleh dokter:
+
+zaky telah diperiksa dan di berikan resep obat oleh dokter:
+Nama Dokter: dr xena, Poli Spesialis: paru-paru, Ruangan: gedung B, Jam: 13-14
